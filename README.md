@@ -5,5 +5,5 @@ Custom WordPress theme created for Gregory Karr for Congress. Based on the under
 ⭐ a custom contact form with pugin-like processing using the admin_post hooks (join.php, functions.php)  
 ⭐ a custom post type for the frontpage (functions.php)  
 ⭐ additional registered menus (functions.php)  
-⭐ a popup (index.php)  
+⭐ a popup (popup.php)  
 

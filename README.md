@@ -1,4 +1,4 @@
-# Custom WordPress Theme (gkarr): Karr for Congress
+# Custom WordPress Theme (gkarr): Karr for Congress 📋
 Custom WordPress theme created for Gregory Karr for Congress. Based on the underscores starter theme, the files in this repository are my significant additions to the starter theme.
 
 **gkarr includes**  
